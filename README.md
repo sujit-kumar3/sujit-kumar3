@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sujit Kumar</h1>
 <h3 align="center">A passionate Researcher and Undergraduate Student in the Department of Statistics</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujit-kumar-26&label=Profile%20views&color=0e75b6&style=flat" alt="sujit-kumar-26" /> </p>
+<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif)">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujit-kumar3&label=Profile%20views&color=0e75b6&style=flat" alt="sujit-kumar3" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sujit-kumar-26](https://github.com/sujit-kumar-26)
+- 👨‍💻 All of my projects are available at [https://github.com/sujit-kumar3](https://github.com/sujit-kumar3)
 
 - 📫 Reach me at: **sujit.kumar.stat@gmail.com**
 
@@ -26,13 +26,14 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="excel" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sujitkumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p><br><br>
+- **Most Used Languages:** R and Python
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit-kumar-26&show_icons=true&locale=en&layout=compact" alt="sujit-kumar-26" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit-kumar3&show_icons=true&locale=en&layout=compact" alt="sujit-kumar3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujit-kumar-26&show_icons=true&locale=en" alt="sujit-kumar-26" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujit-kumar3&show_icons=true&locale=en" alt="sujit-kumar3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-kumar-26&" alt="sujit-kumar-26" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-kumar3&" alt="sujit-kumar3" /></p>
