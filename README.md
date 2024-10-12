@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujit Kumar</h1>
 <h3 align="center">A Passionate Researcher and Undergraduate Student in the Department of Statistics</h3>
 
-<img align="right" alt="Coding" width="270" src="https://github.com/sujit-kumar3/sujit-kumar3/blob/main/Data-Website-Analytics.gif">
+<img align="right" alt="Coding" width="260" src="https://github.com/sujit-kumar3/sujit-kumar3/blob/main/Data-Website-Analytics.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujit-kumar3&label=Profile%20views&color=0e75b6&style=flat" alt="sujit-kumar3" /> </p>
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sujit-kumar3)
